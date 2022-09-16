@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @my-prog
 - 👀 I’m interested in Coding and Data science/analysis
-- 🌱 I’m currently learning postgresql
+- 🌱 I’m currently learning postgreSQL
 - 💞️ I’m looking to collaborate on sql, and python
 - 📫 How to reach me business.mryousaf01@gmail.com
 
